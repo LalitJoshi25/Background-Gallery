@@ -2,7 +2,7 @@
 
 ## Requirements
 
-For development, you will only need Node.js installed on your environement.
+For development, you will only need browser and text-editor(notepad,vs code) installed on your environement.
 And please use the appropriate [Editorconfig](http://editorconfig.org/) plugin for your Editor (not mandatory).
 
 ## Languages & tools
