@@ -24,5 +24,5 @@ And please use the appropriate [Editorconfig](http://editorconfig.org/) plugin f
 
 _Autoprefixer_ is included and use [caniuse.com](http://caniuse.com/) database to avoid outdated prefixes. _You can forget CSS prefixes NOW._
 
-# Utils
+## Utils
 -You can get the images by unzip the img_zip file.
